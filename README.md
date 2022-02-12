@@ -1,6 +1,7 @@
 # Terrain-Identification-from-Time-Series-Data
 The overall objective of this project is to create a model that can predict the terrain based on the readings received by the gyroscope and accelerometer attached to the subject walking in four situations, namely, "Standing/Walking", "Going downstairs","Going Upstairs", "Walking on grass".
 
+* The dataset is available at https://ieee-dataport.org/open-access/lower-limb-prostheses-environmental-context-dataset
 * The entire code is in the jupyter notebook format.
 * Change the path variable of the training data set and the test data set accordingly
 * Run the cells sequentially to first read the data and preprocess the data.
